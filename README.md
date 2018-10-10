@@ -1,0 +1,2 @@
+# ScreenAdaptation
+对目前Android屏幕适配的一些思考和屏幕适配方案
