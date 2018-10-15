@@ -42,7 +42,7 @@
 
   取消某页面的适配请用`@ScreenAdaptation(value = IdentificationEnum. IGNORE)`。
 
-  注意：该注解使用再Activity上面。如：
+  注意：该注解使用在Activity上面。如：
 
   ```java
   @ScreenAdaptation(value = IdentificationEnum. WIDTH)
