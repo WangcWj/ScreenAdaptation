@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">screen-lib</string>
+    <string name="exception_base">你必须先设置设计图的尺寸</string>
+</resources>

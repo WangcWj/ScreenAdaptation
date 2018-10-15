@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/image"
+        android:background="#ff5856"
+        android:text="我擦了"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="40sp"
+        android:layout_marginTop="331dp"
+        android:layout_width="360dp"
+        android:layout_height="100dp" />
+
+    <Button
+        android:id="@+id/dialog"
+        android:text="dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</FrameLayout>

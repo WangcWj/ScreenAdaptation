@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScreenAdaptation.iml" filepath="$PROJECT_DIR$/ScreenAdaptation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xscreen/screen-adapter.iml" filepath="$PROJECT_DIR$/xscreen/screen-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screen-annotation/screen-annotation.iml" filepath="$PROJECT_DIR$/screen-annotation/screen-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screen-lib/screen-lib.iml" filepath="$PROJECT_DIR$/screen-lib/screen-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screen-process/screen-process.iml" filepath="$PROJECT_DIR$/screen-process/screen-process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screen-process/screen_process.iml" filepath="$PROJECT_DIR$/screen-process/screen_process.iml" />
+    </modules>
+  </component>
+</project>
